@@ -1,7 +1,7 @@
     1.Fragment和Activity的生命周期
     2.Viewpager,fragment预加载
     3.fragment懒加载
-    4.ListView和RecyclerView的区别
+    4.ListView和RecyclerView的区别，缓存
     5.Java的内存模型
     6.GC回收机制
     7.RxJava
@@ -14,7 +14,7 @@
     14.intent传递数据最大限制，超出限制如何解决
     15.LruCache和DiskLruCache
     16.JVM类加载机制
-    17.ANR和OOM解决方案
+    17.ANR和OOM解决方案，如何解决
     18.Java软引用和弱引用
     19.MVP
     20.Java内存区域与内存溢出
@@ -22,3 +22,21 @@
     22.线程池
     23.多线程中安全使用使用集合API
     24.快速排序
+    25.冒泡排序
+    26.链表的反转
+    27.AsyncTask中线程是串行还是并行
+    28.java是值传递还是引用传递
+    29.java装箱
+    30.性能优化
+    31.如何解决界面的卡顿
+    32.retrofit原理
+    33.rxjava原理，执行流程
+    34.数据库表，sql相关的优化
+    35.HandlerThread
+    36.ThreadLocal
+    37.同步，锁相关
+    38.HTTPS,对称秘钥，非对称秘钥，数字签名
+    39.ormLite，greenDao框架
+    40.启动activity相关
+    41.java的原子和非原子操作
+    42.应用上线了之后如何定位错误和崩溃，so里面的错误等问题如何定位
